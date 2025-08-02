@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Actively involved in DevOps since August 2023<br>📚 Currently expanding my expertise in AWS<br>🎯 Objective: Obtain the Microsoft Certified: Azure Administrator Associate certification</p>
+<p align="left">✨ Actively involved in DevOps since August 2023<br>📚 Currently expanding my expertise in Azure<br>🎯 Objective: Obtain the Microsoft Certified: Azure Administrator Associate certification</p>
 
 ###
 
